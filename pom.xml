@@ -20,7 +20,7 @@
     </dependencies>
 
     <modules>
-        <module>wei-guava</module>
-        <module>wei-hutool</module>
+        <module>guava</module>
+        <module>hutool</module>
     </modules>
 </project>
