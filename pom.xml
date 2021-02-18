@@ -22,5 +22,6 @@
     <modules>
         <module>guava</module>
         <module>hutool</module>
+        <module>jackson</module>
     </modules>
 </project>
